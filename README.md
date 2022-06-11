@@ -2,4 +2,4 @@
 Obtaining DATA from NASA trough an an API. This will bring YOU, the opportunity to request DATA from NASA from the comfort of your Home!
 
 View this project live!
-https://zakariaerassan.github.io/NASA-API-PROJECT/
+https://zekothedev.github.io/NASA-API-PROJECT/
